@@ -2,3 +2,4 @@ Banane
 Mango 
 Papaya
 Apfel
+Ananas
